@@ -125,9 +125,3 @@ Uncaught TypeError: 'caller', 'callee', and 'arguments' properties may not be ac
 4.注意：每一个图片数据对象中必须有 W 和 H 属性
 
 
-## 绘制商品列表结构
-
-## 尝试在手机上 尝试 预览和测试
-1.保证手机可以运行；
-2.手机和电脑处于同一局域网下，
-3.打开自己的项目 package.json 在dev脚本中 添加一个 --host指令 把当前电脑的wifiip 地址 设置为--host 指令值
